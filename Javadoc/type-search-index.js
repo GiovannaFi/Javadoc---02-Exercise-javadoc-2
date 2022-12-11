@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"DevelHope","l":"ArithmeticOperators"},{"p":"DevelHope","l":"Main"}];updateSearchResults();
